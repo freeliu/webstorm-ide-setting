@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="json" type="JSON5" />
       <removed_mapping ext="json" approved="true" type="JSON" />
-      <removed_mapping ext="wxml" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
