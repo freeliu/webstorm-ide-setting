@@ -1,0 +1,7 @@
+<templateSet group="wechat">
+  <template name="&lt;v" value="&lt;view" description="sub for view" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="json" type="JSON5" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
+    </extensionMap>
+  </component>
+</application>
