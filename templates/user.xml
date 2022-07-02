@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="_vue" value="&lt;script setup lang=&quot;ts&quot;&gt;&#10;&lt;/script&gt;&#10;&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;&#10;&lt;/style&gt;" shortcut="NONE" description="vue default template" toReformat="false" toShortenFQNames="true">
+  <template name="_vue" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script setup lang=&quot;ts&quot;&gt;&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;&#10;&lt;/style&gt;" shortcut="NONE" description="vue default template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Vue" value="true" />
     </context>
