@@ -1,5 +1,5 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
