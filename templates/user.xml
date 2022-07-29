@@ -4,7 +4,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="_prettier" value="    'prettier/prettier': [&#10;      'warn',&#10;      { trailingComma: 'none', singleQuote: true, semi: false }&#10;    ]" toReformat="false" toShortenFQNames="true">
+  <template name="_prettier" value="    'prettier/prettier': [&#10;      'warn',&#10;      { trailingComma: 'none', singleQuote: true, semi: false }&#10;    ]" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
